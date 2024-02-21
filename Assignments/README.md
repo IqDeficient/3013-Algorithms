@@ -2,7 +2,7 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   0   | link 0      | description 0          |
+|   Example   | link here      | description 0          |
 |   P01   | [Vector Class P01][def]      | Vector Class          |
 |   P02   | [Autocomplete In Linear Time][def2]    | Autocomplete in linear time    |
 
