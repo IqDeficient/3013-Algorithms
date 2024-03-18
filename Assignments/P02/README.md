@@ -8,8 +8,8 @@ This program uses a json dictionary to search for words. The program also uses g
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | main.cpp        | Point of execution for program     |
-|   2   | json.hpp | |
+|   1   | [main.cpp][def]        | Point of execution for program     |
+|   2   | [json.hpp][def2] | |
 |   3   | rang.hpp | |
 |   4   | console.hpp| |
 |   5   | dictionary.json| |
@@ -21,4 +21,5 @@ This program uses a json dictionary to search for words. The program also uses g
 - If you wish to see the definition of the typed word and if there are other word options then hit = else if there are no other word options and just the one hit enter.
 - The definition will show and from there you can either backspace to find another word or you can enter a capital Z and end the program.
 
-def:
+[def]: https://github.com/IqDeficient/3013-Algorithms/blob/main/Assignments/P02/main.cpp
+[def2]: https://github.com/IqDeficient/3013-Algorithms/blob/main/Assignments/P02/headers/json.hpp
