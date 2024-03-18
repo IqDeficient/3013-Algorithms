@@ -21,6 +21,12 @@ This program uses a json dictionary to search for words. The program also uses g
 - If you wish to see the definition of the typed word and if there are other word options then hit = else if there are no other word options and just the one hit enter.
 - The definition will show and from there you can either backspace to find another word or you can enter a capital Z and end the program.
 
+### Screenshots as examples
+![Getch1]https://github.com/IqDeficient/Place-to-store-stuff/blob/main/3013-p02-getch%20and%20json/Getch1.png
+![Getch2]https://github.com/IqDeficient/Place-to-store-stuff/blob/main/3013-p02-getch%20and%20json/Getch2.png
+![Getch3]https://github.com/IqDeficient/Place-to-store-stuff/blob/main/3013-p02-getch%20and%20json/Getch3.png
+![Getch4]https://github.com/IqDeficient/Place-to-store-stuff/blob/main/3013-p02-getch%20and%20json/Getch4.png
+
 [def]: https://github.com/IqDeficient/3013-Algorithms/blob/main/Assignments/P02/main.cpp
 [def2]: https://github.com/IqDeficient/3013-Algorithms/blob/main/Assignments/P02/headers/json.hpp
 [def3]: https://github.com/IqDeficient/3013-Algorithms/blob/main/Assignments/P02/headers/rang.hpp
