@@ -1,1 +1,15 @@
-#### Edit this readme when links for P02 are corrected and due date is published
+## P02 - 
+### 
+### Description:
+
+Example Description
+
+### Files
+
+|   #   | File            | Description                                        |
+| :---: | --------------- | -------------------------------------------------- |
+|   1   | example.file        | example description      |
+
+### Instructions
+
+- 
